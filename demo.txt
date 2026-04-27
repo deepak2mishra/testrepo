@@ -1,2 +1,3 @@
 "hello git" 
 "my second line" 
+"feature2 change" 
